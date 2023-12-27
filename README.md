@@ -19,4 +19,25 @@ Tkinter application inherits from Frame to create the Graphical User Interface (
 
 1. Download this repository.
 2. Run dataview.py using Visual Studio Code or Python latest version.
-3. The output will look like this: 
+3. The interface will prompt you options to type the name of the file, determine the X Label and Y Label, or quit.
+4. The following are the correlation between the birth months and the number of births. 
+
+![BirthlyYear Stats](https://github.com/Kwangsa19/Python-GUI-Tkinter/assets/135963482/7de8e850-7ff5-459c-aff7-cf84ee693163)
+
+![BirthlyYear Plot](https://github.com/Kwangsa19/Python-GUI-Tkinter/assets/135963482/91f46c45-66df-4b84-8e62-527aec6793f8)  
+
+
+<br>
+
+5. The following are the correlation between the temperature and rain.
+
+![tempRainYearly Stats](https://github.com/Kwangsa19/Python-GUI-Tkinter/assets/135963482/cc6fabb1-d6f7-41b2-91bd-3e0f608fdc0a)  
+
+![tempRainYearly Plot](https://github.com/Kwangsa19/Python-GUI-Tkinter/assets/135963482/ad1662c8-7316-40c3-b8ea-c59ef50be073)
+
+6. You can also downlaod the figures, adjust the size, and zoom the figures.
+
+## Future Works
+* More math formula samples.
+* Many formats (not just csv).
+* Using "input" to allow users choose the files regardless of the location path.  
